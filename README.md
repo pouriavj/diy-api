@@ -97,6 +97,12 @@ You can explore and test all endpoints using the provided **Postman collection**
 - Download the Postman collection file from the repository: `JokeAPI.postman_collection.json`  
 - Import it into Postman to see all endpoints pre-configured.
 
+---
+## 🛠️ Built With
+
+- **Node.js** – JavaScript runtime  
+- **Express** – Web framework for Node.js  
+- **Postman** – For API testing and documentation  
 **Published Documentation**  
 - A web version of the API documentation is available at: [API Docs Link](https://documenter.getpostman.com/view/6048123/2s9XxsTv8Y)  
 - Browse all endpoints, example requests, and responses interactively.
