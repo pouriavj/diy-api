@@ -34,6 +34,7 @@ npm install
 node index.js
 ```
 <p>The API server will run on: http://localhost:3000</p>
+
 ---
 
 ## 🚀 API Endpoints
