@@ -47,7 +47,7 @@ The API server will run on: http://localhost:3000
 ### 3. Filter jokes by type
 **Endpoint:** `GET /filter?type=<jokeType>`  
 **Description:** Returns all jokes of a specific type.  
-**Example:** `/filter?type=Science`
+**Example:** `/filter?type=Puns`
 
 ### 4. Add a new joke
 **Endpoint:** `POST /jokes`  
