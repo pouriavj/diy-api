@@ -35,6 +35,8 @@ node index.js
 ```
 ### The API server will run on: http://localhost:3000
 
+---
+
 
 ## 🚀 API Endpoints
 
