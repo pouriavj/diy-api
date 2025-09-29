@@ -98,6 +98,6 @@ You can explore and test all endpoints using the provided **Postman collection**
 - Import it into Postman to see all endpoints pre-configured.
 
 **Published Documentation**  
-- A web version of the API documentation is available at: [API Docs Link](your-docs-link-here)  
+- A web version of the API documentation is available at: [API Docs Link](https://documenter.getpostman.com/view/6048123/2s9XxsTv8Y)  
 - Browse all endpoints, example requests, and responses interactively.
 ---
