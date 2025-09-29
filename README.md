@@ -33,7 +33,7 @@ npm install
 ```bash
 node index.js
 ```
-The API server will run on: http://localhost:3000
+<p>The API server will run on: http://localhost:3000</p>
 ---
 
 ## 🚀 API Endpoints
