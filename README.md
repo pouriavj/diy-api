@@ -94,7 +94,7 @@ node index.js
 You can explore and test all endpoints using the provided **Postman collection** or by visiting the published API documentation.
 
 **Postman Collection**  
-- Download the Postman collection file from the repository: `diy-api.postman_collection.json`  
+- Download the Postman collection file from the repository: `JokeAPI.postman_collection.json`  
 - Import it into Postman to see all endpoints pre-configured.
 
 **Published Documentation**  
