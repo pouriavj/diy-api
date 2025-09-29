@@ -32,3 +32,56 @@ npm install
 node index.js
 ```
 The API server will run on: http://localhost:3000
+---
+
+## 🚀 API Endpoints
+
+### 1. Get a random joke
+**Endpoint:** `GET /random`  
+**Description:** Returns a random joke from the collection.
+
+### 2. Get a specific joke
+**Endpoint:** `GET /jokes/:id`  
+**Description:** Returns the joke that matches the specified `id`.
+
+### 3. Filter jokes by type
+**Endpoint:** `GET /filter?type=<jokeType>`  
+**Description:** Returns all jokes of a specific type.  
+**Example:** `/filter?type=Science`
+
+### 4. Add a new joke
+**Endpoint:** `POST /jokes`  
+**Body Parameters:**
+- `type` (string): The type of the joke.
+- `text` (string): The text of the joke.
+
+**Description:** Adds a new joke to the collection and returns it.
+
+### 5. Update a joke
+**Endpoint:** `PUT /jokes/:id`  
+**Body Parameters:**
+- `type` (string): Updated joke type.
+- `text` (string): Updated joke text.
+
+**Description:** Replaces the joke with the specified `id`.
+
+### 6. Update part of a joke
+**Endpoint:** `PATCH /jokes/:id`  
+**Body Parameters (optional):**
+- `type` (string): Updated joke type.
+- `text` (string): Updated joke text.
+
+**Description:** Updates only the provided fields of the joke.
+
+### 7. Delete a specific joke
+**Endpoint:** `DELETE /jokes/:id`  
+**Description:** Deletes the joke with the specified `id`.
+
+### 8. Delete all jokes
+**Endpoint:** `DELETE /all`  
+**Headers:**
+- `masterkey` (string): Required master key to delete all jokes.
+
+**Description:** Deletes all jokes if the correct master key is provided.
+
+---
