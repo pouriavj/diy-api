@@ -23,7 +23,12 @@
 git clone https://github.com/your-username/diy-api.git
 cd diy-api
 ```
-1. **Install dependencies**
+2. **Install dependencies**
 ```bash
 npm install
 ```
+3. **Start the server**
+```bash
+node index.js
+```
+The API server will run on: http://localhost:3000
