@@ -23,3 +23,8 @@
 ```bash
 git clone https://github.com/your-username/diy-api.git
 cd diy-api
+```
+1. **Install dependencies**
+```bash
+npm install
+```
