@@ -27,7 +27,7 @@ cd diy-api
 ```
 2. **Install dependencies**
 ```bash
-npm install
+npm i
 ```
 3. **Start the server**
 ```bash
