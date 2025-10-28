@@ -4,7 +4,7 @@
 ![Express](https://img.shields.io/badge/Express.js-4.18-black?logo=express)
 ![Postman](https://img.shields.io/badge/Postman-10-orange?logo=postman)
 ![ES6](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
-![License](https://img.shields.io/badge/license-MIT-green)
+
 
 
 
