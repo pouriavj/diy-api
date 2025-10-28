@@ -1,5 +1,11 @@
 # DIY API - JokeAPI
 
+![Node.js](https://img.shields.io/badge/Node.js-18-green?logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-4.18-black?logo=express)
+![Postman](https://img.shields.io/badge/Postman-10-orange?logo=postman)
+![ES6](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+![License](https://img.shields.io/badge/license-MIT-green)
+
 
 
 This DIY API which is called **JokeAPI** is a simple RESTful API that serves a collection of 100 jokes. Users can retrieve jokes, filter by type, add new jokes, update existing ones, and delete jokes through various endpoints. Built with **Node.js** and **Express**.
